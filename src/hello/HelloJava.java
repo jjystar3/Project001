@@ -6,7 +6,7 @@ public class HelloJava {
 		
 		System.out.println("JeongJuYoung");
 		
-		//수정~
+		//집에서 커밋 테스트~
 		
 	}
 	
